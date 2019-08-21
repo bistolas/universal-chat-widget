@@ -21,7 +21,7 @@ You will need a backend server to respond to user messages: it may be a rails AP
 ```bash
 mkdir my-chat-widget
 cd my-chat-widget
-git clone https://github.com/121services/universal-chat-widget
+git clone https://github.com/bistolas/universal-chat-widget
 npm run dev
 ```
 
